@@ -24,7 +24,7 @@ See `config.json`
 ## Installation and Setup:
 
 ### Clone and enter repo
-`git clone pyStockApplet && cd pyStockApplet`
+`git clone https://github.com/EllieFroggie/pyStockApplet.git && cd pyStockApplet`
 
 ### Build and start the container
 
